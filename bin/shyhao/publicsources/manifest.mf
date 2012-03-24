@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: jkademlia.shyhao.windows.explorer.CpuAndMemoryDynamicChart
+Created-By: 1.6(Sun Microsystems Inc.)
+Class-Path: lib/gnujaxp.jar /jcommon.jar lib/jfreechart.jar

@@ -1,0 +1,24 @@
+[21:48:33.281] DEBUG [main] logger - hello
+[00:31:40.843] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:37:51.093] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:37:51.093] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:41:13.671] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:41:13.687] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:42:58.187] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:42:58.187] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:43:28.359] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:43:28.359] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:44:22.671] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:44:22.687] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:47:11.062] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:47:11.062] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:47:11.062] FATAL [Thread-0] jkademlia.kademlia.JKademlia - java.lang.NumberFormatException: null
+[00:49:40.843] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:49:40.843] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:49:40.843] FATAL [Thread-0] jkademlia.kademlia.JKademlia - java.lang.NumberFormatException: For input string: "1;"
+[00:51:49.078] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:51:49.078] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:51:49.078] FATAL [Thread-0] jkademlia.kademlia.JKademlia - java.lang.NumberFormatException: For input string: "1;"
+[00:53:49.375] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - Reading properties from file D:\Workspace\Java\JKademlia\jkademlia.properties
+[00:53:49.375] DEBUG [Thread-0] jkademlia.kademlia.JKademlia - All necessary properties found
+[00:53:49.390] FATAL [Thread-0] jkademlia.kademlia.JKademlia - java.lang.NumberFormatException: For input string: "1;"
